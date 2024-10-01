@@ -1,0 +1,80 @@
+.fondo{
+    background-color: #373DC9;
+}
+.bot{
+    position: relative;
+    top: 10px;
+    left: 290px;
+    font-size: 100%;
+    font-family: 'Telegraf';
+}
+.img1{
+    position: relative;
+    bottom: 40px;
+    left:140px;
+    width:150px;
+    height:100px;
+}
+.titl{
+    position: relative;
+    bottom: 50px;
+    left: 350px;
+    font-size: 500%;
+    font-family: fantasy, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.fecha{
+    position: relative;
+    bottom: 30px;
+    left: 300px;
+    font-size: 200%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.lugar{
+    position: relative;
+    bottom: 30px;
+    left: 340px;
+    font-size: 200%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.pais{
+    position: relative;
+    bottom: 30px;
+    left: 340px;
+    font-size: 200%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.tickets{
+    position: relative;
+    bottom: 30px;
+    left: 340px;
+    font-size: 200%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.fechas{
+    position: relative;
+    bottom: 30px;
+    left: 300px;
+    font-size: 200%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.lugares{
+    position: relative;
+    bottom: 30px;
+    left: 310px;
+    font-size: 200%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.paises{
+position: relative;
+bottom: 30px;
+left: 310px;
+font-size: 200%;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.ticket{
+position: relative;
+bottom: 30px;
+left: 310px;
+font-size: 200%;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

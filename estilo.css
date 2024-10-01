@@ -1,0 +1,187 @@
+.img5{
+    position: relative;
+    bottom: 131px;
+    right:40px ;
+    width:150px;
+    height:100px;
+}
+.bot{
+    position: relative;
+    bottom: 35px;
+    left: 100px;
+    font-size: 290%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.fondo{
+    background-color: #5A5FCD;
+}
+.img1{
+    position: relative;
+    bottom: 200px;
+    left:180px ;
+    width: 400px;
+    height:400px;
+}
+.port1{
+    position: relative;
+    bottom: 165px;
+    left: 185px;
+    font-size: 290%;
+    color: aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.fecha1{
+    position: relative;
+    bottom: 230px;
+    left: 185px;
+     font-size: 155%;
+     color: aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.hits1{
+    position: relative;
+    bottom: 250px;
+    left: 170px;
+    font-size: 150%;
+    color: aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.img2{
+    position: relative;
+    bottom: 845px;
+    left:700px ;
+    width: 400px;
+    height:400px;  
+}
+.port2{
+   position: relative;
+   bottom: 810px;
+   left: 560px;
+   font-size: 45px;
+   color: aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.hits2{
+    position: relative;
+    bottom: 1150px;
+    left: 890px;
+    font-size: 150%;
+    color: aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.fecha2{
+    position: relative;
+    bottom: 1124px;
+    left: 870px;
+    font-size: 155%;
+    color: aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.img3{
+    position: relative;
+    bottom: 1090px;
+    left:180px;
+    width: 400px;
+    height:400px; 
+}
+.port3{
+    position: relative;
+    top: -1650px;
+    left: 180px;
+    font-size: 45px;
+    color: aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+ .hits3{
+     position: relative;
+     bottom: 1210px;
+     left: 170px;
+     font-size: 150%;
+     color: aliceblue;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+ .fecha3{
+     position: relative;
+     bottom: 1100px;
+     left: 190px;
+     font-size: 155%;
+     color: aliceblue;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+.img4{
+    position: relative;
+    bottom: 2230px;
+    left:900px ;
+    width: 400px;
+    height:400px; 
+}
+.port4{
+    position: relative;
+    top: -2785px;
+    left: 900px;
+    font-size: 45px;
+    color: aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+ .hits4{
+     position: relative;
+     bottom: 2355px;
+     left: 900px;
+     font-size: 150%;
+     color: aliceblue;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+ .fecha4{
+     position: relative;
+     bottom: 2235px;
+     left: 900px;
+     font-size: 155%;
+     color: aliceblue;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+.insta{
+    position: relative;
+    bottom:px;
+    left:px;
+    font-size: 150%;
+    color: aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.tube{
+    position: relative;
+    bottom:px;
+    left: 900px;
+    font-size: 150%;
+    color: aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.spoti{
+    position: relative;
+    bottom: px;
+    left: 900px;
+    font-size: 150%;
+    color: aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.logi{
+    position: relative;
+    bottom: 200px;
+    left:200px ;
+    width: 100px;
+    height:100px; 
+
+}
+.logy{
+    position: relative;
+    bottom: 200px;
+    left:200px ;
+    width: 150px;
+    height:100px; 
+}
+.logs{
+    position: relative;
+    bottom: 200px;
+    left:200px ;
+    width: 100px;
+    height:100px; 
+}

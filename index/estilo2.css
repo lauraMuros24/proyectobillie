@@ -1,0 +1,149 @@
+.fondo{
+    background-color: #16195D;
+}
+.img5{
+    position: relative;
+    bottom: 40px;
+    right: 40px;
+    width:150px;
+    height:100px;
+}
+.bot{
+    position: relative;
+    top: 10px;
+    left: 100px;
+    font-size: 100%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.phone{
+    position: relative;
+    bottom: 50px;
+    left: 200px;
+    height:200px ;
+}
+.title1{
+    position: relative;
+    bottom:60px ;
+    left:205px ;
+    color:white ;
+    font-size: 150%;
+    font-family: fantasy;
+}
+.precio1{
+    position: relative;
+    bottom:80px ;
+    left: 264px;
+    color: aliceblue;
+    font-size: 100%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.slip{
+    position: relative;
+    bottom: 50px;
+    left: 200px;
+    height:200px ;
+}
+.title2{
+    position: relative;
+    bottom:60px ;
+    left:170px ;
+    color:white ;
+    font-size: 150%;
+    font-family: fantasy;
+}
+.precio2{
+    position: relative;
+    bottom:80px ;
+    left: 264px;
+    color: aliceblue;
+    font-size: 100%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.doll{
+    position: relative;
+    bottom: 680px;
+    left: 500px;
+    height:200px ;
+}
+.title3{
+    position: relative;
+    bottom:690px ;
+    left:530px ;
+    color:white ;
+    font-size: 150%;
+    font-family: fantasy;
+}
+.precio3{
+    position: relative;
+    bottom:710px ;
+    left: 570px;
+    color: aliceblue;
+    font-size: 100%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.beanie{
+    position: relative;
+    bottom: 680px;
+    left: 500px;
+    height:200px ;
+}
+.title4{
+    position: relative;
+    bottom:690px ;
+    left:500px ;
+    color:white ;
+    font-size: 150%;
+    font-family: fantasy;
+}
+.precio4{
+    position: relative;
+    bottom:710px ;
+    left: 570px;
+    color: aliceblue;
+    font-size: 100%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.remera{
+    position: relative;
+    bottom: 1310px;
+    left: 790px;
+    height:200px ;
+}
+.title5{
+    position: relative;
+    bottom:1320px ;
+    left:800px ;
+    color:white ;
+    font-size: 150%;
+    font-family: fantasy;
+}
+.precio5{
+    position: relative;
+    bottom:1340px ;
+    left: 860px;
+    color: aliceblue;
+    font-size: 100%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.cinturon{
+    position: relative;
+    bottom: 1310px;
+    left: 790px;
+    height:200px ;
+}
+.title6{
+    position: relative;
+    bottom:1320px ;
+    left:840px ;
+    color:white ;
+    font-size: 150%;
+    font-family: fantasy;
+}
+.precio6{
+    position: relative;
+    bottom:1340px ;
+    left: 860px;
+    color: aliceblue;
+    font-size: 100%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
